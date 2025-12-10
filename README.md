@@ -16,7 +16,7 @@ An alternative bootstrapper for Minecraft: Bedrock Edition on Windows.
 ## Usage
 - [Download](https://github.com/Aetopia/MCBE.GDK.Bootstrapper/releases/latest/download/gamelaunchhelper.dll) the latest release of MCBE GDK Bootstrapper.
 
-- Run the following command in PowerShell to find where the game is located:
+- Run the following command(s) in PowerShell to find where the game is located:
 
     - Minecraft
 
